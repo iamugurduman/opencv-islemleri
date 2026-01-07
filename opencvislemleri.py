@@ -26,4 +26,4 @@ cv2.imshow("blurred",blur)
 cv2.imshow("edges",np.hstack([wide,tight,auto]))#3 görselin tek bir çerçevede görünmesini sağladık
     
 cv2.waitKey(0)
-cv2.destroyAllWindows()
+cv2.destroyAllWindows()#s
